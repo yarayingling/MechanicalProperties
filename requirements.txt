@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scipy
+plotly
+altair
+pillow
+pydantic
+scikit-learn
+statsmodels
+pint

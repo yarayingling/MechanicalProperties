@@ -1,0 +1,9 @@
+mse_mech_app/
+├─ Home.py
+├─ pages/
+│  ├─ 1_Upload_&_QAQC.py           # data ingestion, validation, calibration
+│  ├─ 2_Single_Test_Analysis.py    # metrics, charts, uncertainty, downloads
+│  ├─ 3_Batch_Compare.py           # overlay curves, boxplots, filters
+│  ├─ 4_Methods_&_Assumptions.py   # calculations, equations, standards notes
+│  └─ 5_Report_&_Provenance.py     # exports, data stamps, parameters JSON
+└─ .streamlit/config.toml
